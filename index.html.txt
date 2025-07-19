@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lucent | Stay Connected. Look Unbothered.</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f0f0f;
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+    header {
+      background: #1a1a1a;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #999;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 28px;
+      background: #ffffff10;
+      border: 1px solid #fff;
+      color: #fff;
+      border-radius: 999px;
+      text-decoration: none;
+      transition: 0.3s ease;
+    }
+    .btn:hover {
+      background: #ffffff25;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.8em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lucent</h1>
+    <p>Stay connected. Look unbothered.</p>
+  </header>
+
+  <section class="section">
+    <h2>Technology without takeover.</h2>
+    <p>
+      Lucent is the world’s first minimalist smart ring that lets you handle the essentials—texts, calls, music, payments—
+      all with one hand. No more distractions. No more screen addiction. Just control, at your fingertips.
+    </p>
+    <p>
+      Designed for thinkers, creators, and anyone tired of chasing dopamine.
+    </p>
+    <a href="#" class="btn">Reserve Your Lucent</a>
+  </section>
+
+  <section class="section">
+    <h2>Why Lucent?</h2>
+    <ul>
+      <li>✓ OLED hidden display</li>
+      <li>✓ Bluetooth + NFC enabled</li>
+      <li>✓ 7-day battery life</li>
+      <li>✓ Airplane mode + full privacy</li>
+      <li>✓ Distraction-free. Period.</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Your attention is currency. Stop spending it on noise.</h2>
+    <p>
+      Lucent was built to do less—so you can do more.  
+      Strip away what doesn’t serve you.  
+      Reclaim your focus. Reclaim your time.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 Lucent Tech. All rights reserved.
+  </footer>
+</body>
+</html>
